@@ -5,7 +5,7 @@
 ## The Challenge
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
+3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud)
 4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
@@ -14,7 +14,7 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Farah's Cloud Journey
 
 [✍️ Introduce yourself]
 
@@ -22,31 +22,31 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/farahkhurrum)
+- [LinkedIn](https://www.linkedin.com/in/farah-khurrum)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 1 > [Setup Git and React App](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [Register Domain and deploy CloudFront](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Setup Route 53 and DNS](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Add API calls from React App](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Deploy using Git Actions](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [CI/CD Pipeline](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [unit tests](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Complete Cloud Resume Challenge](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [ ] ☁️ 11 > [Terraform](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Convert the current resources in terraform](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [Deploy EC2 instances for react App](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [Add ELB between Route53 and EC2](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [Architecture diagram ](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [architecture](Journey/016/Readme.md)
+- [ ] ☁️ 17 > [update the react app](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
