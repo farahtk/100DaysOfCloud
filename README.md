@@ -29,7 +29,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 - [X] ☁️ 1 > [Setup Git and React App](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Register Domain and deploy S3 bucket wuth static website](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Setup Route 53 and DNS](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [Setup Route 53 and DNS using cloud front](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Add API calls from React App](Journey/006/Readme.md)
