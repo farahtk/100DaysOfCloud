@@ -16,11 +16,9 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Farah's Cloud Journey
 
-[✍️ Introduce yourself]
+I am Farah Khurrum. I used to be a Full stack developer at Microsoft Azure for 4 years. Changed gears for my career and joined Twitter in 2021, moved to Kubernetes and AWS tech stack. 
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
+Currently, my goal is to become familiar with the AWS tech stack, understand Kubernetes, and be able to deploy Kubernetes services end to end on AWS Cloud. I am hoping by the end of this 100 days of Cloud Challenge I am able to ahcieve that.
 
 - [Twitter](https://twitter.com/farahkhurrum)
 - [LinkedIn](https://www.linkedin.com/in/farah-khurrum)
@@ -28,7 +26,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Stepping out the door
 
 - [X] ☁️ 1 > [Setup Git and React App](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Register Domain and deploy S3 bucket wuth static website](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Register Domain and deploy website](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Setup Route 53 and DNS using cloud front](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/005/Readme.md)
