@@ -39,5 +39,4 @@ Day 1 tasks complete with Github template setup and React app ready to be deploy
 Set up SSL and Custom Domain.
 
 ## Social Proof
-
-[link](link)
+- [Twitch Tutorial Link](https://www.twitch.tv/videos/1248553853) 

@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Setting up SSL and custom domaion for the App 
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The target for this day is to set up SSL cert, add custom domain and map it to the App deployed in AWS.
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+React app is deployed in AWS and is ready to be connected to a custom Domain name. A Domain name is already registered. 
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Undertanding different options to generate SSL cert and connect the domain name mapping to the app 
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Add the custom domain name to AWS Amplify app
 
-### Step 1 — Summary of Step
+![Screenshot](./images/CustomDomain.jpg)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — Setting up DNS setting in Namecheap for SSL
 
-### Step 1 — Summary of Step
+- [DNS setting Docs followed](https://docs.aws.amazon.com/amplify/latest/userguide/to-add-a-custom-domain-managed-by-godaddy.html) 
+**Did this step offline**
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 3 - Validate the custom domain is pointing to the deployed app
+![Screenshot](./images/domainRedirect.jpg)
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Able to set up SSL cert and DNS mapping for the custom domain in a 3rd party domain name provider and connecting domain name to AWS Amplify app.
 
 ## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Add API Gateway and Lambda functions
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+Working sample app - https://www.farahkhurrum.dev/
 
-[link](link)
+- [Twitch Tutorial Link](https://www.twitch.tv/videos/1248553853) 
+
