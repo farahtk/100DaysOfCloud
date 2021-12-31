@@ -26,7 +26,7 @@ Currently, my goal is to become familiar with the AWS tech stack, understand Kub
 ## Stepping out the door
 
 - [X] ☁️ 1 > [Setup Git and React App](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Register Domain and deploy website](Journey/002/Readme.md)
+- [x] ☁️ 2 > [Register Domain and deploy website](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Setup Route 53 and DNS using cloud front](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/005/Readme.md)

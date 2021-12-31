@@ -1,52 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Day 2 - Registering Domain and deploying React App to AWS
 
 ## Introduction
+Deplying the React App to AWS and getting understanding of the AWS docs and console. 
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Day 1 tasks complete with Github template setup and React app ready to be deployed. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Registering Domain with AWS using Route 53. Could not find .dev in AWS domain registration. Used namecheap instead. 
+- Looked at different [Website hosting options in AWS](https://aws.amazon.com/websites/). React App deployment with some learning for Backend needed AWS Aplify. Went ahead with setting that up. 
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Register domain
 
-### Step 1 — Summary of Step
+- [Using Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/registrar-tld-list.html)
+- [Using Namecheap](https://www.namecheap.com/)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — Deploy React App
 
-### Step 1 — Summary of Step
+- [Set up AWS Amplify](https://aws.amazon.com/amplify/hosting/)
+- Connect Github repo to Amplify
+- Confirm your build commands are correct
+- Build and Deploy
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 3 — Confirm your App is successfully running
+- USe your app link in the AWS Amplify console
 
 ## ☁️ Cloud Outcome
+- Successfully created domain.
+- Successfully deployed React app
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
 ## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Set up SSL and Custom Domain.
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
