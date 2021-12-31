@@ -1,4 +1,4 @@
-# Setting up SSL and custom domaion for the App 
+# Setting up SSL and custom domain for the App 
 
 ## Introduction
 The target for this day is to set up SSL cert, add custom domain and map it to the App deployed in AWS.
@@ -14,7 +14,7 @@ React app is deployed in AWS and is ready to be connected to a custom Domain nam
 
 ### Step 1 — Add the custom domain name to AWS Amplify app
 
-![Screenshot](./images/CustomDomain.jpg)
+![Screenshot](./images/CustomDomain.JPG)
 
 ### Step 2 — Setting up DNS setting in Namecheap for SSL
 
