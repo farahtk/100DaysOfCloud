@@ -1,52 +1,52 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# AWS API Gateway  and Lambda Function
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Deploy Lambda Functions and connece to the API Gateway in AWS and validate it is working end to end. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Have some basic understanding of RESTful APIs and how the functions works
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Searched the AWS Api Gateway and Lamda Documentation
+    - https://docs.aws.amazon.com/lambda/latest/dg/nodejs-handler.html
+    - https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
+- AWS Gateway setup and deployment from the UX is not very clear in the documentation. Had to go through trtial and error and guess work to figure out how to deploy the APIs.
+
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Create Lambda function
 
-### Step 1 — Summary of Step
+![Screenshot](./createLambda.JPG)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — Add a trigger
 
-### Step 1 — Summary of Step
+![Screenshot](./Trigger.JPG)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 3 — Create the methods for the API and add response 
 
-### Step 3 — Summary of Step
+![Screenshot](./API.JPG)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 4 - Deploy the API methods
+![Screenshot](./DeployAPI.JPG)
+
+### Step 5 - Test the API and Lambda function. 
+- ![Screenshot](./TestAPI.JPG)
+- ![Screenshot](./Success.JPG)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Was able to create Lambda function, connect it with AWS API Gateway, and successfully trigger it for happy path. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Add Dynamo DB and connect Lamda function to add logs from API calls to Dynamo DB and read logs to return as a response. 
 
 ## Social Proof
+[Twitch Stream link](https://www.twitch.tv/videos/1253433094)
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+
