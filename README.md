@@ -25,16 +25,17 @@ Currently, my goal is to become familiar with the AWS tech stack, understand Kub
 
 ## Stepping out the door
 
-- [X] ☁️ 1 > [Setup Git and React App](Journey/001/Readme.md)
-- [x] ☁️ 2 > [Register Domain and deploy website](Journey/002/Readme.md)
-- [x] ☁️ 3 > [Setup Route 53 and DNS using cloud front](Journey/003/Readme.md)
-- [x] ☁️ 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Add API calls from React App](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [Deploy using Git Actions](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [CI/CD Pipeline](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [unit tests](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [Complete Cloud Resume Challenge](Journey/010/Readme.md)
+- [X] 1 > [Setup Git and React App](Journey/001/Readme.md)
+- [x] 2 > [Register Domain and deploy website](Journey/002/Readme.md)
+- [x] 3 > [Setup Route 53 and DNS using cloud front](Journey/003/Readme.md)
+- [x] 4 > [Add API Gateway and Lambda functions](Journey/004/Readme.md)
+- [x] 5 > [Adding another API method](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Add Dynamo DB for logging from Lambda](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Add API calls from React App](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Deploy using Git Actions](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [CI/CD Pipeline](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [unit tests](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Complete Cloud Resume Challenge]()
 
 ## Walking down the road
 

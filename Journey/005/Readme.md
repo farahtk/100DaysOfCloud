@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Adding another API Method and LAmbda function
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Today was more about adding Dynamo DB and adding lambda function connection, but ended up spending all time figuring out how to add another method in the API. 
 
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Any RESTful API supports multiple http methods, including Get, Put, Post, Delete etc. I never thought adding another method is going to be so challenging in Lambda. I was not able to find any documentation about how to connect two methods to the same function and the differentiator of the methods inside the function. MAy be there is a documentation but it was not easier to find at the moment. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Issues I faced today,
+- Not able to figure out how to access the http method information inside the lambda function from the same API Resource but different methods. It involes the same lambda function. 
+- One lambda fuunction connected to one API Resource and was able to authenticate correctly. Created another function and connected with another resource inside the same API but a different resource. It is failing on Authentication issue. 
 
 ## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+Nothing much to share today other than the repeat of the steps from yesterday. I am planning to enable the logas from Cloudwatch and see if Ia m able to find out the root cause. 
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Sometimes things are frustrating :D
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Hopefully Ic an find out the issue form logs OR by reaching out to the AWS cloud community :)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitch link](https://www.twitch.tv/videos/1254471569)
